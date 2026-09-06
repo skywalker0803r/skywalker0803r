@@ -47,10 +47,15 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | ⛩️ [**amaterasu-diffusion**](https://skywalker0803r.github.io/amaterasu-diffusion/) | 天照大神擴散模型展示網站 | JavaScript / WebGL |
+| 🧠 [**Alex_H_Model**](https://github.com/skywalker0803r/Alex_H_Model) | 深度學習 / 模型架構專案 | Python / PyTorch |
 | 🌌 [**Vedanta**](https://github.com/skywalker0803r/Vedanta) | 開源強化學習與量化交易實驗框架 | PyTorch / Python |
 | 🤖 [**Autonomous Bounties Bot**](https://github.com/skywalker0803r/Autonomous-Code-Bounties-Bot-Specification) | 自助程式懸賞與自動執行機器人規格 | Python / Web3 |
 
 ---
+
+### 🔥 Featured Projects
+
+
 
 <p align="center">
   <i>"Code, backtest, optimize, repeat."</i>
