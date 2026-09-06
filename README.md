@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm skywalker0803r (于正龍)
+# 👋 Hi, I'm skywalker0803r
 
 **AI Engineer & Quantitative Developer**
 
