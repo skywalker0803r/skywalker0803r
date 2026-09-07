@@ -32,8 +32,8 @@
 ### 📊 GitHub Dynamics & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skywalker0803r&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="skywalker0803r's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker0803r&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=skywalker0803r&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="skywalker0803r's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skywalker0803r&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
@@ -52,10 +52,6 @@
 | 🤖 [**Autonomous Bounties Bot**](https://github.com/skywalker0803r/Autonomous-Code-Bounties-Bot-Specification) | 自助程式懸賞與自動執行機器人規格 | Python / Web3 |
 
 ---
-
-### 🔥 Featured Projects
-
-
 
 <p align="center">
   <i>"Code, backtest, optimize, repeat."</i>
