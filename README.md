@@ -8,11 +8,10 @@
 
 ---
 
-<!-- ⛩️ 天照擴散（Amaterasu Diffusion）動態視覺 Banner -->
+<!-- ⛩️ 天照擴散 (Amaterasu Diffusion) 動態視覺 Banner -->
 <a href="https://skywalker0803r.github.io/amaterasu-diffusion/" target="_blank">
   <svg width="100%" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <!-- 天照火焰/極光漸層動畫 -->
       <linearGradient id="amaterasuGrad" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stop-color="#FF1E27">
           <animate attributeName="stop-color" values="#FF1E27;#FF8C00;#9900FF;#FF1E27" dur="6s" repeatCount="indefinite" />
@@ -24,8 +23,6 @@
           <animate attributeName="stop-color" values="#0F001C;#2A004F;#05000A;#0F001C" dur="6s" repeatCount="indefinite" />
         </stop>
       </linearGradient>
-      
-      <!-- 天照發光濾鏡 -->
       <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
         <feGaussianBlur stdDeviation="6" result="blur" />
         <feMerge>
@@ -34,11 +31,7 @@
         </feMerge>
       </filter>
     </defs>
-
-    <!-- 背景卡片 -->
     <rect width="100%" height="100%" rx="16" fill="url(#amaterasuGrad)" stroke="#FF4500" stroke-width="1.5" opacity="0.9"/>
-    
-    <!-- 脈動發光標題 -->
     <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="800" filter="url(#glow)" letter-spacing="3">
       ⛩️ AMATERASU DIFFUSION ⛩️
     </text>
