@@ -19,6 +19,23 @@ I can help with:
 
 I focus on practical, well-documented solutions and can work with both research prototypes and production-oriented projects.
 
+人工智慧工程師兼量化開發人員
+
+Python 資料分析師與強化學習工程師
+
+我專長於基於Python的數據分析、機器學習和強化學習。我的經驗包括開發強化學習環境和智能體，嘗試DQN​​、PPO、DIAYN和AlphaZero等演算法，以及建構用於投資和加密貨幣分析的資料驅動型Telegram機器人。
+
+我可以提供以下方面的協助：
+
+• 資料清洗、探索性資料分析和視覺化
+• 機器學習和時間序列建模
+• 強化學習的研究和實現
+• Gymnasium 環境和 PyTorch 模型
+• 回測和策略評估
+• Jupyter Notebook、實驗、文件和可複現程式碼
+
+我專注於實用、有據可查的解決方案，既可以參與研究原型項目，也可以參與生產導向型項目。
+
 ---
 
 <!-- ⛩️ 天照擴散 (Amaterasu Diffusion) 動態視覺 Banner -->
