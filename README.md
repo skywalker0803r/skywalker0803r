@@ -8,6 +8,48 @@
 
 ---
 
+<!-- ⛩️ 天照擴散（Amaterasu Diffusion）動態視覺 Banner -->
+<a href="https://skywalker0803r.github.io/amaterasu-diffusion/" target="_blank">
+  <svg width="100%" height="130" viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- 天照火焰/極光漸層動畫 -->
+      <linearGradient id="amaterasuGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#FF1E27">
+          <animate attributeName="stop-color" values="#FF1E27;#FF8C00;#9900FF;#FF1E27" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#FF7300">
+          <animate attributeName="stop-color" values="#FF7300;#8A2BE2;#FF1E27;#FF7300" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#0F001C">
+          <animate attributeName="stop-color" values="#0F001C;#2A004F;#05000A;#0F001C" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+      
+      <!-- 天照發光濾鏡 -->
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="6" result="blur" />
+        <feMerge>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+
+    <!-- 背景卡片 -->
+    <rect width="100%" height="100%" rx="16" fill="url(#amaterasuGrad)" stroke="#FF4500" stroke-width="1.5" opacity="0.9"/>
+    
+    <!-- 脈動發光標題 -->
+    <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Roboto, sans-serif" font-size="26" font-weight="800" filter="url(#glow)" letter-spacing="3">
+      ⛩️ AMATERASU DIFFUSION ⛩️
+    </text>
+    <text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" fill="#FFD700" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5">
+      [ Click to Launch Interactive Visual Experience ]
+    </text>
+  </svg>
+</a>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 #### 🤖 AI & Reinforcement Learning
@@ -46,7 +88,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| ⛩️ [**amaterasu-diffusion**](https://skywalker0803r.github.io/amaterasu-diffusion/) | 天照大神擴散模型展示網站 | JavaScript / WebGL |
+| ⛩️ [**amaterasu-diffusion**](https://skywalker0803r.github.io/amaterasu-diffusion/) <br> [![Live Demo](https://img.shields.io/badge/Interactive_Site-FF3366?style=flat-square&logo=firefox&logoColor=white)](https://skywalker0803r.github.io/amaterasu-diffusion/) | 天照大神擴散模型視覺展示網站 | JavaScript / WebGL |
 | 🧠 [**Alex_H_Model**](https://github.com/skywalker0803r/Alex_H_Model) | 深度學習 / 模型架構專案 | Python / PyTorch |
 | 🌌 [**Vedanta**](https://github.com/skywalker0803r/Vedanta) | 開源強化學習與量化交易實驗框架 | PyTorch / Python |
 | 🤖 [**Autonomous Bounties Bot**](https://github.com/skywalker0803r/Autonomous-Code-Bounties-Bot-Specification) | 自助程式懸賞與自動執行機器人規格 | Python / Web3 |
