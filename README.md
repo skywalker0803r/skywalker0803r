@@ -4,7 +4,20 @@
 
 **AI Engineer & Quantitative Developer**
 
-［昔·台積電 L4 高級 RL 算法長老］瘋迷神功走火入魔，筋脈盡斷。拋妻棄鼠、散盡家財，流連青樓。曾於名妓胸尖留字：skywalker0803r 到此一遊 現已退隱江湖，終生不寫一行代碼。
+Python Data Analyst & Reinforcement Learning Engineer
+
+I specialize in Python-based data analysis, machine learning, and reinforcement learning. My experience includes developing reinforcement learning environments and agents, experimenting with algorithms such as DQN, PPO, DIAYN, and AlphaZero-style methods, and building data-driven Telegram bots for investment and cryptocurrency analysis.
+
+I can help with:
+
+• Data cleaning, exploratory data analysis, and visualization  
+• Machine learning and time-series modeling  
+• Reinforcement learning research and implementation  
+• Gymnasium environments and PyTorch models  
+• Backtesting and strategy evaluation  
+• Jupyter Notebooks, experiments, documentation, and reproducible code  
+
+I focus on practical, well-documented solutions and can work with both research prototypes and production-oriented projects.
 
 ---
 
