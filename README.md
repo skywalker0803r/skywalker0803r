@@ -112,7 +112,7 @@ Python 資料分析師與強化學習工程師
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | ⛩️ [**amaterasu-diffusion**](https://skywalker0803r.github.io/amaterasu-diffusion/) <br> [![Live Demo](https://img.shields.io/badge/Interactive_Site-FF3366?style=flat-square&logo=firefox&logoColor=white)](https://skywalker0803r.github.io/amaterasu-diffusion/) | 天照大神擴散模型視覺展示網站 | JavaScript / WebGL |
-| 🧠 [**Alex_H_Model**](https://github.com/skywalker0803r/Alex_H_Model) | 深度學習 / 模型架構專案 | Python / PyTorch |
+| 🧠 [**Alex_H_Model**](https://github.com/skywalker0803r/Alex_H_Model) | 量化交易實驗框架 |
 | 🌌 [**Vedanta**](https://github.com/skywalker0803r/Vedanta) | 開源強化學習與量化交易實驗框架 | PyTorch / Python |
 | 🤖 [**Autonomous Bounties Bot**](https://github.com/skywalker0803r/Autonomous-Code-Bounties-Bot-Specification) | 自助程式懸賞與自動執行機器人規格 | Python / Web3 |
 
